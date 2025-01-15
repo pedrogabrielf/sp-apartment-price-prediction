@@ -43,12 +43,12 @@ O projeto utiliza o **Plotly** com integração ao **Mapbox** para gerar visuali
     ```bash
     pip install -r requirements.txt
 
-📂 Estrutura do Repositório
-sp-apartment-price-prediction/
-│
-├── data/                  # Contém os conjuntos de dados utilizados
-├── analysis.ipynb         # Notebook com as análises realizadas
-├── README.md              # Instruções e descrição do projeto
-├── requirements.txt       # Dependências necessárias
-└── mapbox_token           # Arquivo contendo o token do Mapbox
+## 📂 Estrutura do Repositório
+
+    data-analysis-obesity-gdp/
+    │
+    ├── Datasets/              # Contém os conjuntos de dados utilizados
+    ├── analysis.ipynb         # Notebook com as análises realizadas
+    ├── README.md              # Instruções e descrição do projeto
+    └── requirements.txt       # Dependências necessárias
 
