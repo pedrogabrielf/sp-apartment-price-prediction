@@ -42,6 +42,8 @@ O projeto utiliza o **Plotly** com integração ao **Mapbox** para gerar visuali
 3. Instale as dependências necessárias:
     ```bash
     pip install -r requirements.txt
+4. Adicione o token do Mapbox em um arquivo chamado mapbox_token na raiz do projeto.
+5. Execute o notebook *analysis.ipynb* para visualizar as análises e a predição.
 
 ## 📂 Estrutura do Repositório
 
@@ -52,3 +54,6 @@ O projeto utiliza o **Plotly** com integração ao **Mapbox** para gerar visuali
     ├── README.md              # Instruções e descrição do projeto
     └── requirements.txt       # Dependências necessárias
 
+## 📝 Licença
+
+Este projeto é para fins educacionais e está disponível sob a licença MIT. Sinta-se à vontade para contribuir!
